@@ -5,12 +5,15 @@ Link: http://www.esl-lab.com/phone/phonerd1.htm
 ### Vocabulary
 
 **wrap up**: to finish
+
 -We need to wrap up this project by the end of the day.
 
 **drop by**: to visit
+
 -Please drop by my place on your way home from work.
 
 **swing by**: drop by, stop by
+
 -I need to swing by the store and pick up some food for dinner.
 
 ### Script
