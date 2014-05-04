@@ -4,34 +4,34 @@ Link: http://esl-lab.com/live/liverd1.htm
 
 ### Vocabulary
 
-**work out**: going well
++ **work out**: going well
 
--My new job schedule has really **worked out** for me.
+  - My new job schedule has really worked out for me.
 
-**commute**: v. & n.通勤
++ **commute**: v. & n.通勤
 
--VERB: I have to **commute** two hours ech day to get to woek.
+  - VERB: I have to **commute** two hours ech day to get to woek.
 
--NOUN: How long is your **commute** to work every day?
+  - NOUN: How long is your **commute** to work every day ?
 
-**budget**: 预算
++ **budget**: 预算
 
--What's your budget like?
+  - What's your budget like?
 
-**complex**: 复杂的，合成的；复合体
++ **complex**: 复杂的，合成的；复合体
 
-**apartment complex**: 公寓大楼
+  **apartment complex**: 公寓大楼
 
 
 ### Good Sentences
 
-Put them **in order of importance** to you and discuss them with a partner.
++ Put them **in order of importance** to you and discuss them with a partner.
 
-How's your new apartment **working out**?
++ How's your new apartment **working out**?
 
-Well, that's **what I'm calling about**.
++ Well, that's **what I'm calling about**.
 
-The commute is just killing me. 
++ The commute is just killing me. 
 
 
 ### Script
