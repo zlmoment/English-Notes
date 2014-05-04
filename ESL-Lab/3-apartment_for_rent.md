@@ -33,6 +33,8 @@ Link: http://esl-lab.com/live/liverd1.htm
 
 + The commute is just killing me. 
 
++ **I'd prefer to** rent a furnished apartment.
+
 
 ### Script
 
